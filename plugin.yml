@@ -2,7 +2,7 @@ name: AdminUI
 main: AdminUI\Main
 api: 3.0.0-ALPHA10
 version: 1.0
-author: ArmTheDev & CookieCode
+author: ArmTheDev
 commands:
  admin:
     default: op
